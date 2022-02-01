@@ -25,7 +25,7 @@ https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset
 6. PyCharm
 7. pillow
 
-**Algorithm Used**
+**Algorithms Used**
 
 1. **RestNet50** : ResNet-50 is a convolutional neural network that is 50 layers deep. It is pre Trained model which is trained on Image Net dataset.
  
