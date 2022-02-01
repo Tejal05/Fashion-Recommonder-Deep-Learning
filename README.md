@@ -12,6 +12,12 @@
 6. PyCharm
 7. pillow
 
+**Algorithm Used**
+
+1. RestNet50 
+2. Convolutional Neural Network
+3. k-nearest neighbors
+
 
 
 **UI ScreenShot**
