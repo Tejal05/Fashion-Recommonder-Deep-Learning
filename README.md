@@ -5,7 +5,7 @@
 **Techonology Used**
 1. OpenCV
 2. tensorflow
-3. 3.Streamlit
+3. Streamlit
 4. Numpy 
 5. Scikit Learn
 6. PyCharm
