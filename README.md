@@ -1,7 +1,15 @@
 
 # Fashion-Recommonder-Deep-Learning
 **UI ScreenShot**
-![image](https://user-images.githubusercontent.com/89766164/151962072-bcdc6f2f-b7f6-49e7-ada7-a1c1baa594e6.png)
+
+Techonology Used
+1. OpenCV
+2. tensorflow
+3. 3.Streamlit
+4. Numpy 
+5. Scikit Learn
+6. PyCharm
+7. pillow
 
 
 
