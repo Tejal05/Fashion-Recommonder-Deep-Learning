@@ -14,7 +14,7 @@
 
 **Algorithm Used**
 
-1. **RestNet50** : ResNet-50 is a convolutional neural network that is 50 layers deep. It is pre Trained model .which is trained on Image Net dataset.
+1. **RestNet50** : ResNet-50 is a convolutional neural network that is 50 layers deep. It is pre Trained model which is trained on Image Net dataset.
  
 2. **Convolutional Neural Network** : A Convolutional Neural Network is a deep Learning algorithm which can take in an input assign importance to various aspects in the image  and be able to differentiate one form the other . 
 
